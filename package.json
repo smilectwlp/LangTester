@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "i18next": "^24.2.3",
     "react": "19.0.0",
-    "react-native": "0.78.1"
+    "react-i18next": "^15.4.1",
+    "react-native": "0.78.1",
+    "react-native-localize": "^3.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
